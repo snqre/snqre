@@ -1,4 +1,4 @@
-# ⚠ NOTICE
+# NOTICE ⚠
 
 GitHub has moved away from its original mission and goals, so I have transitioned my development to an open-source platform.
 
